@@ -6,7 +6,7 @@
 
 # Refund
 
-O Refound é um projeto desenvolvido durante meus estudos na Rocketseat, com o objetivo de criar uma aplicação simples e funcional para solicitação de reembolso de despesas. Construído utilizando JavaScript, HTML e CSS, o sistema permite que usuários preencham e enviem informações sobre gastos realizados, simulando um processo de reembolso.
+O Refund é um projeto desenvolvido durante meus estudos na Rocketseat, com o objetivo de criar uma aplicação simples e funcional para solicitação de reembolso de despesas. Construído utilizando JavaScript, HTML e CSS, o sistema permite que usuários preencham e enviem informações sobre gastos realizados, simulando um processo de reembolso.
 
 Apesar de não utilizar banco de dados, o projeto foca em consolidar conceitos fundamentais de front-end, como manipulação de DOM, validação de formulários e estilização responsiva. Toda a lógica foi implementada em JavaScript puro, reforçando minha prática em criar interfaces interativas sem o uso de frameworks ou bibliotecas externas.
 

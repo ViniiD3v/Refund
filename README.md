@@ -4,7 +4,7 @@
   <img src=".//refund-template-main/img/logo.svg" alt="Project Name">
 </p>
 
-# Refound
+# Refund
 
 O Refound é um projeto desenvolvido durante meus estudos na Rocketseat, com o objetivo de criar uma aplicação simples e funcional para solicitação de reembolso de despesas. Construído utilizando JavaScript, HTML e CSS, o sistema permite que usuários preencham e enviem informações sobre gastos realizados, simulando um processo de reembolso.
 

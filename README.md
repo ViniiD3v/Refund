@@ -1,7 +1,7 @@
 <!--- # "Can be a image or a gift from the project pages" -->
 
 <p align="center">
-  <img src="./img/logo.svg" alt="Project Name">
+  <img src="./refund-template-main/img/logo.svg" alt="Project Name">
 </p>
 
 # Refound

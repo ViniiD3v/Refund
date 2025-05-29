@@ -20,5 +20,5 @@ Este projeto foi uma excelente oportunidade para reforçar conhecimentos em JS, 
 
 ## Como usar
 
-1. **Clonar o projeto**: `git clone git@github.com:ViniiD3v/Convert.git`
+1. **Clonar o projeto**: `git clone git@github.com:ViniiD3v/refound.git`
 2. **Abrir com a extensão**: `Live Server`
